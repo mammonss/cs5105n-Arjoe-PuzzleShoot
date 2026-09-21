@@ -14,17 +14,26 @@ PuzzleShoot is a 2D puzzle shooter game where the player controls a character an
 
 Week 1 – Initial project setup and Godot & Git configuration.
 
+<img width="1912" height="938" alt="Screenshot 2026-09-17 215447" src="https://github.com/user-attachments/assets/ec7e76bd-1df1-48d5-b5a7-d0f9661b46cd" />
+
+
 Week 2 – Added player movement, projectile shooting, collision detection, and game feel.
 
 Week 3 – Added two playable levels, hazards, goals, TileMap-based level layouts, and a level transition.
+
+<img width="976" height="628" alt="Screenshot 2026-09-21 211348" src="https://github.com/user-attachments/assets/2f44ef89-c2da-4c20-af05-c2d2a8152667" />
+
+
+<img width="966" height="590" alt="Screenshot 2026-09-21 211358" src="https://github.com/user-attachments/assets/aebb41ad-2c5f-46c8-a368-0b564afb55c7" />
+
 
 ## Week 3 Level Design
 
 Level 1 introduces the shooting mechanic with a simple layout and fewer hazards. Level 2 adds more hazards and targets to increase the challenge.
 
-The level design uses clear visual differences between safe areas, hazards, targets, and goals to keep the gameplay readable.
+The level design uses clear visual differences between safe areas, hazards, targets and goals to keep the gameplay readable.
 
-I will keep the game content inclusive and avoid stereotypes or harmful representations when designing characters, environments, and other game elements.
+I will keep the game content inclusive and avoid stereotypes or harmful representations when designing characters, environments and other game elements.
 
 ## Controls
 
