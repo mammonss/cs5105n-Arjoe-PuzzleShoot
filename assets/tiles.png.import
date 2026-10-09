@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cugsy5gcnvpnb"
-path="res://.godot/imported/tile_atlas.svg-6f3505efe0956ca7db0fd9da8680741b.ctex"
+uid="uid://xf8y8cwwjmta"
+path="res://.godot/imported/tiles.png-0d11a4bcdfb48056f67a66da241684a1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://tile_atlas.svg"
-dest_files=["res://.godot/imported/tile_atlas.svg-6f3505efe0956ca7db0fd9da8680741b.ctex"]
+source_file="res://assets/tiles.png"
+dest_files=["res://.godot/imported/tiles.png-0d11a4bcdfb48056f67a66da241684a1.ctex"]
 
 [params]
 
@@ -38,6 +38,3 @@ process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
 detect_3d/compress_to=1
-svg/scale=1.0
-editor/scale_with_editor_scale=false
-editor/convert_colors_with_editor_theme=false
